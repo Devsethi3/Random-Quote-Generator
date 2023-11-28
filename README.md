@@ -2,6 +2,10 @@
 
 Welcome to the Random Quote Generator repository! This project is a JavaScript-based web application that generates random quotes fetched from an API. Built with HTML, CSS, and JavaScript, it features a modern UI design for a visually appealing and interactive user experience.
 
+## Preview
+
+![Random Quote Generator Preview](Preview.png)
+
 ## Features
 
 - **Random Quote Generation:** Display a new quote each time the user requests.
